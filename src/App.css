@@ -1,0 +1,26 @@
+.FormButton button{
+  margin-bottom: 1rem;
+  border-radius: 100px;
+  border: none;
+  background-color: rgb(10, 57, 167);
+  color: aliceblue;
+  font-weight:bolder;
+  font-size: x-large;
+}
+.Form {  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid grey;
+  border-width: 3%;
+  background-color: rgb(238, 237, 237);
+}
+.Form h2{
+  color: #4B75BA;
+  text-align: center;
+  }
+.mainSubText{
+  text-align: center;
+}
+
+
